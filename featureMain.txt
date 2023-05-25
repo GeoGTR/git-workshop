@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 featuremain kodları eklendi
+=======
+feature2 kodları
+>>>>>>> feature2
