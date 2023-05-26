@@ -1,3 +1,5 @@
+Şirket içi workshop günleri için hazırlanmıştır.
+
 Git Nedir ?
 =============
 
@@ -36,7 +38,7 @@ Staging Area
 
 Şimdi projeye bazı dosyalar eklemeyi deneyelim.
 
-`yusuf.txt` ve `fatih.txt` adında iki dosya oluşturalım.
+`featureMain.txt` ve `featureTest.txt` adında iki dosya oluşturalım.
 
     $ touch featureMain.txt featureTest.txt
 
